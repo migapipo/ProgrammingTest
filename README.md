@@ -59,7 +59,7 @@ Track 1:\
 03:30PM Programming in the Boondocks of Seattle 30min\
 04:00PM Ruby vs. Clojure for Back-End Development 30min\
 04:30PM User Interface CSS in Rails Apps 30min\
-05:00PM Networking Event\
+05:00PM Networking Event
 
 Track 2:\
 09:00AM Communicating Over Distance 60min\
@@ -72,4 +72,4 @@ Track 2:\
 02:30PM A World Without HackerNews 30min\
 03:00PM Ruby on Rails Legacy App Maintenance 60min\
 04:00PM Rails for Python Developers lightning\
-05:00PM Networking Event\
+05:00PM Networking Event
